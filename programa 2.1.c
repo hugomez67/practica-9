@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 9
+Ejercicio programa 2.1*/
+
 #include <stdio.h>
 
 int main()
