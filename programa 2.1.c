@@ -13,7 +13,7 @@ int main()
   {
     printf("Dame un numero entre 1 y 10 para indicar la longitud del arreglo: ");
     scanf("%i", &elem);
-  } while (elem < 1 || elem < 10);
+  } while (elem < 1 || elem > 10);
   for(int i=0; i < elem; i++)
   {
       printf("Da un numero entero para el elemento %i del arreglo: ", i+1);
