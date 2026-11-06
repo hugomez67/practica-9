@@ -1,3 +1,7 @@
+/*Gomez Hernandez Hugo Santiago
+Practica 7
+Ejercicio programa 1*/
+
 #include <stdio.h>
 
 float suma(float num1, float num2);
